@@ -1,4 +1,11 @@
-# URLs
+<p align="center">
+<img src="https://tellmeurl.com/erocool/logo.png" alt="EroCool" width="100">
+</p>
+<h1 align="center">EroCool</h1>
+
+> 🍰 Read or download doujinshi & manga for free.
+
+## URLs
 [https://zha.erocool.me/](https://zha.erocool.me/)
 
 [https://zhb.erocool.me/](https://zhb.erocool.me/)
@@ -8,3 +15,7 @@
 [https://ja.erocool.org/](https://ja.erocool.org/)
 
 [https://erocool.org/](https://erocool.org/)
+
+---
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=erocool.erocool)
