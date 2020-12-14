@@ -12,9 +12,11 @@
 
 [https://zh.erocool.pw/](https://zh.erocool.pw/)
 
-[https://ja.erocool.org/](https://ja.erocool.org/)
+[https://zh.erocool.cc/](https://zh.erocool.cc/)
 
-[https://erocool.org/](https://erocool.org/)
+[https://ja.erocool.co/](https://ja.erocool.co/)
+
+[https://en.erocool1.com/](https://en.erocool1.com/)
 
 ---
 
