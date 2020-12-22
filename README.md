@@ -20,4 +20,21 @@
 
 ---
 
+<details>
+  <summary>Unavailable URLs</summary>
+  
+  [https://zh.erocool.com/](https://zh.erocool.com)
+  
+  [https://zh.erocool.co/](https://zh.erocool.co/)
+  
+  [https://zh.erocool.me/](https://zh.erocool.me/)
+  
+  [https://ja.erocool.net/](https://ja.erocool.net/)
+  
+  [https://ja.erocool.org/](https://ja.erocool.org/)
+  
+</details>
+
+---
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=erocool.erocool)
